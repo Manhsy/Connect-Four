@@ -1,7 +1,7 @@
 /**
 Goal: write a artificial intelleigence that will control the computer's moves when a human plays against a computer
 will be written similar to the math class which means it will contain static methods that provides services to toehr parts of a program
-purpose: to make a move on a ConnectFour boeard 
+purpose: to make a move on a ConnectFour board 
 version: 2 
 date: 11.4.19
 */
