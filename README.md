@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Artificial-Intelligent
+# Connect-Four-Artificial-Intelligent
 
 ### Description 
 
