@@ -4,7 +4,6 @@ is able to indicate what size of board they want to play with
 (as long it is higher than 3(column)X4(row)). 
 Else, they will be given the class's default size of board of 7(column)X6(row).
 *@author: Manh Tu Sy
-*@version 2 October 3rd 2019
 */
 public class ConnectFour{
    
